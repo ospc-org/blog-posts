@@ -11,40 +11,14 @@
       <section class="news-items news-items-trans">
         <div class="container">
           <div class="row">
+          {% for article in articles %}
             <div class="col-sm-6">
               <div class="news-item tagged">
-                <h4><a href="news-detail">Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</a></h4>
-                <p>Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor.</p>
+                <h4><a href="{{ article.url }}">{{ article.title }}</a></h4>
+                <p>{{ article.summary }}</p>
               </div>
             </div>
-            <div class="col-sm-6">
-              <div class="news-item">
-                <h4><a href="news-detail">Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</a></h4>
-                <p>Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor.</p>
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <div class="news-item">
-                <h4><a href="news-detail">Computus atque Jovis preasent commodo cursus magna, vel scelerisque nisl consectetur et</a></h4>
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <div class="news-item">
-                <h4><a href="news-detail">Hactenus Astronomo numerorum fræna recuset lipsum dolor sit amet</a></h4>
-                <p>Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor. Morbi leo risus, porta ac consectetur ac, vestibulum at eros sociis natoque penatibus et magnis.</p>
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <div class="news-item">
-                <h4><a href="news-detail">Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</a></h4>
-                <p>Vestibulum id ligula porta felis euismod semper. Curabitur blandit tempus porttitor.</p>
-              </div>
-            </div>
-            <div class="col-sm-6">
-              <div class="news-item tagged">
-                <h4><a href="news-detail">Sociis natoque penatibus et dis parturient montes, nascetur ridiculus</a></h4>
-              </div>
-            </div>
+          {% endfor %}
           </div>
         </div>
       </section>
