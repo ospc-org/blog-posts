@@ -1,0 +1,12 @@
+name: blog_aei
+dependencies:
+- python=2.7.9
+- pip:
+  - pelican
+  - markdown
+  - fabric
+
+channels:
+  - ospc
+  - amfarrell
+  - defaults
