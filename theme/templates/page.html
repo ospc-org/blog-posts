@@ -1,6 +1,4 @@
-{% extends 'pages/home.html' %}
-
-{% load staticfiles %}
+{% extends 'home.html' %}
 
 {% block content %}
 
@@ -37,7 +35,7 @@
           </div>
 
           <div class="figure">
-            <img src="{% static 'images/fpo/fpo-news-image.jpg' %}" alt="" class="img-responsive">
+            <img src="{{ SITEURL }}/images/fpo-news-image.jpg" alt="" class="img-responsive">
             <div class="caption">
               Caption at eget metus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
             </div>
