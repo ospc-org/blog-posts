@@ -6,9 +6,11 @@ AUTHOR = u'Open Source Policy Center'
 SITENAME = u'Open Source Policy Center'
 SITEURL = ''
 
+THEME = './theme'
+
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = u'en'
 
@@ -20,14 +22,14 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Tax Calculator', 'http://ospc.org/taxbrain/'),
+         ('Source Code', 'https://github.com/OpenSourcePolicyCenter/'),
+         )
+
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+#SOCIAL = (('You can add links in your config file', '#'),
+#          ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 6
 
