@@ -1,0 +1,5 @@
+*.swp
+*.swo
+cache
+pelican.pid
+srv.pid
