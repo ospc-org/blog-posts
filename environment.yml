@@ -5,6 +5,7 @@ dependencies:
   - pelican
   - markdown
   - fabric
+  - s3cmd
 
 channels:
   - ospc
