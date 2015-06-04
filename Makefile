@@ -17,7 +17,7 @@ SSH_PORT=22
 SSH_USER=ubuntu
 SSH_TARGET_DIR=/var/www
 
-S3_BUCKET=blog-aei
+S3_BUCKET=news.ospc.org
 
 CLOUDFILES_USERNAME=my_rackspace_username
 CLOUDFILES_API_KEY=my_rackspace_api_key
