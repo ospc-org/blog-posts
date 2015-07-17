@@ -22,7 +22,7 @@ The Open Source Policy Center's primary mission is to fundamentally improve comp
 
 Our first priority is building simulation models of the federal individual income tax system, similar to those used by the official analytical arms of Congress and the Executive Branch, the Joint Committee on Taxation, Congressional Budget Office, and the Office of Tax Analysis at the Treasury Department. We plan to move beyond taxes in the future. 
 
-OSPC projects that have reached the alpha or beta stage include Taxcalc, the first-even open source microsimulation model of the individual income tax code, and US-OG, the first-eve open source large-scale dynamic overlapping generations model of the US economy. We have also developed TaxBrain, an easy-to-use online interfaces that allows students, policymakers, journalists, and citizens to interact with the models and learn for themselves about the effects of policies. 
+OSPC projects that have reached the alpha or beta stage include Taxcalc, the first-ever open source microsimulation model of the individual income tax code, and US-OG, the first-ever open source large-scale dynamic overlapping generations model of the US economy. We have also developed TaxBrain, an easy-to-use online interfaces that allows students, policymakers, journalists, and citizens to interact with the models and learn for themselves about the effects of policies. 
 
 In order to sign up for to use the TaxBrain web application and receive our newsletter,  [ SIGNUP HERE]
 
