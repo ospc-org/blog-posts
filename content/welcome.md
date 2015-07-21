@@ -28,9 +28,9 @@ That said, a primary goal in developing these open-source tools has been process
 
 
 
-In order to use the TaxBrain web application and receive our newsletter,  [ SIGNUP HERE]
+In order to use the TaxBrain web application and receive our newsletter, [enter your email here](http://www.ospc.org/about#join-mailinglist).
 
-To become an open source contributor to our projects, please visit our Github page, [here]
+To become an open source contributor to our projects, please visit our Github page, [here](https://github.com/OpenSourcePolicyCenter/)
 
 To become an economic reviewer, please email matt.jensen@aei.org
 
