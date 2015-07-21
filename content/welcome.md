@@ -1,4 +1,4 @@
-Title: Wecome to OSPC
+Title: Welcome to OSPC
 Date: 2015-07-20
 Slug: welcome-to-ospc
 Authors: Matt Jensen
