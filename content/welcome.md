@@ -12,23 +12,23 @@ Policymakers and the public (whether they realize it or not) depend on computati
 
 These models largely determine how we think a policy will affect the government’s budget, whom we think a policy will help or hurt, and how we think a policy will change people’s behavior and affect the economy as a whole. As a result, models powerfully influence which policy ideas become law. 
 
-Historically, most modeling institutions have lacked the mandate or background to take advantage of technological developments that would allow for greater transparency and widespread collaboration on these models. Therefore, despite their influence, most policy-relevant economic models exist as proprietary simulation software that is only available to a select few. Even most policymakers (including members of congress and leading presidential candidates) don’t have access to this software, which means it is very difficult for them to generate creative policy solutions or even participate in policy debates. What’s more, limited availability and transparency undermines external review and stifles innovation. 
+Historically, most modeling institutions have lacked the mandate from elected officials or the background to take advantage of technological developments that would allow for greater transparency and widespread collaboration on these models. Therefore, despite their influence, most policy-relevant economic models exist as proprietary simulation software that is only available to a select few. Even most policymakers (including members of congress and leading presidential candidates) don’t have access to this software, which means it is very difficult for them to generate creative policy solutions or even participate in policy debates. What’s more, limited availability and transparency undermines external review and stifles innovation. 
 
 The status quo inhibits democratic participation in government and effective economic policymaking. 
 
 The Open Source Policy Center’s founding beliefs are that policymakers and the public should have the best tools for understanding policy and that those tools should be completely transparent and collaborative in order to guarantee innovation and quality. 
 
-We have acted on those beliefs by jumpstarting an open-source community of economists, software engineers, and policy analysts who collaboratively produce open source computational economic models and web applications so that non-programmers can easily interact with those models.
+We have acted on those beliefs by jumpstarting an open-source community of economists, software engineers, and policy analysts who collaboratively produce open-source computational economic models and web applications so that non-programmers can easily interact with those models.
 
-Our first priority is building simulation models of the federal individual income tax system, similar to those used by the official analytical arms of Congress and the Executive Branch, the Joint Committee on Taxation, Congressional Budget Office, and the Office of Tax Analysis at the Treasury Department. We hope to move beyond taxes in the future to modeling other areas of economic policy, including spending programs. 
+Our first priority is building simulation models of the federal individual income tax system, similar in capability to those used by the official analytical arms of Congress and the Executive Branch, the Joint Committee on Taxation, Congressional Budget Office, and the Office of Tax Analysis at the Treasury Department. We hope to move beyond taxes in the future to modeling other areas of economic policy, including spending programs. 
 
-OSPC projects that have reached the alpha or beta stage include Taxcalc, the first-ever open source microsimulation model of the US individual income tax code, and USOG, the first-ever open source large-scale dynamic overlapping generations model of the US economy. We have also developed TaxBrain, an easy-to-use online interface that allows students, policymakers, journalists, and citizens to interact with the models through a webapp and learn for themselves about the effects of policies. 
+OSPC projects that have reached the alpha or beta stage include Taxcalc, the first-ever open-source microsimulation model of the US individual income tax code, and USOG, the first-ever open-source large-scale dynamic overlapping generations model of the US economy. We have also developed TaxBrain, an easy-to-use online interface that allows policymakers, journalists, students, and citizens to interact with the models through a webapp and learn for themselves about the effects of policies. 
 
-That said, a primary goal in developing these open source tools has been process-oriented rather than product-oriented. In other words, we are not just striving to develop models, but to develop a technological approach and workflow that enables distributed teams of experts to collaborate on models in an open and transparent environment. By doing so, we hope to help pave the way for others to adopt a  more collaboration, transparency, and accessibility-driven approach to the development of policy-relevant economic models.
+That said, a primary goal in developing these open-source tools has been process oriented rather than product oriented: we are not just striving to develop models, but to develop a technological approach and workflow that enables distributed teams of experts to collaborate on models in an open and transparent environment. By doing so, we hope to help pave the way for others to adopt a more collaboration, transparency, and accessibility-driven approach to the development of policy-relevant economic models.
 
 
 
-In order to sign up for to use the TaxBrain web application and receive our newsletter,  [ SIGNUP HERE]
+In order to use the TaxBrain web application and receive our newsletter,  [ SIGNUP HERE]
 
 To become an open source contributor to our projects, please visit our Github page, [here]
 
