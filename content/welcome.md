@@ -1,4 +1,4 @@
-Title: Welcome to OSPC
+Title: Wecome to OSPC
 Date: 2015-07-20
 Slug: welcome-to-ospc
 Authors: Matt Jensen
@@ -6,40 +6,23 @@ Summary: The Open Source Policy Center is making policy analysis more transparen
 
 Welcome to OSPC.org.  
 
-The Open Source Policy Center is a collaborative and technology-driven response to a fundamental public policy challenge in the 21st century: a policy evaluation process that inhibits democratic participation in government and constrains the creativity of economic policymakers. The OSPC community is working to make policy analysis more transparent, accessible, and innovative by harnessing open source methods and a growing community of expert contributors to build cutting edge economic models. 
+The Open Source Policy Center offers a collaborative and technology-driven fix for a policy evaluation process that inhibits democratic participation in government and constrains the creativity of economic policymakers. The OSPC community is working to make policy analysis more transparent, accessible, and innovative by harnessing open-source methods and a growing community of expert contributors to build cutting edge economic models. 
 
-Policymakers and the public (whether they realize it or not) depend on computational economic models, which range from microsimulation models of individual behavior, to time-series forecasting models, to fully articulated simulations of the macroeconomy.
+Policymakers and the public depend on economic models to determine how a policy may affect the government's budget, whom a policy will help or hurt, and how a policy might change people's behavior and affect the economy as a whole. As a result, economic models -- ranging from microsimulation models of individual behavior, to time-series forecasting models, to fully articulated simulations of the macroeconomy -- powerfully influence which policy ideas become law. 
 
-These models largely determine how we think a policy will affect the government’s budget, whom we think a policy will help or hurt, and how we think a policy will change people’s behavior and affect the economy as a whole. As a result, models powerfully influence which policy ideas become law. 
+Historically, most modeling institutions have lacked the mandate from elected officials to take advantage of technological developments that would allow for greater transparency and widespread collaboration on these models. Therefore, despite their influence, most policy-relevant economic models exist as proprietary simulation software that is only available to a select few. Even most policymakers (including members of congress and leading presidential candidates) don’t have access to this software, making it very difficult for them to generate creative policy solutions or even to participate in policy debates. What’s more, limited availability and transparency undermines external review and stifles innovation. 
 
-Historically, most modeling institutions have lacked the mandate from elected officials or the background to take advantage of technological developments that would allow for greater transparency and widespread collaboration on these models. Therefore, despite their influence, most policy-relevant economic models exist as proprietary simulation software that is only available to a select few. Even most policymakers (including members of congress and leading presidential candidates) don’t have access to this software, which means it is very difficult for them to generate creative policy solutions or even participate in policy debates. What’s more, limited availability and transparency undermines external review and stifles innovation. 
+This status quo inhibits democratic participation in government and constrains effective economic policymaking. 
 
-The status quo inhibits democratic participation in government and effective economic policymaking. 
+The motivating principle behind the Open Source Policy Center is that policymakers and the public should have the best tools for understanding policy and that those tools should be completely transparent and collaborative in order to guarantee innovation and quality. 
 
-The Open Source Policy Center’s founding beliefs are that policymakers and the public should have the best tools for understanding policy and that those tools should be completely transparent and collaborative in order to guarantee innovation and quality. 
+With that in mind, OSPC brings together an open-source community of economists, software engineers, and policy analysts who collaboratively produce open-source computational economic models and web applications that allow non-programmers to easily interact with those models.
 
-We have acted on those beliefs by jumpstarting an open-source community of economists, software engineers, and policy analysts who collaboratively produce open-source computational economic models and web applications so that non-programmers can easily interact with those models.
+The community's first priority is building simulation models of the federal individual income tax system, similar in capability to those used by the official analytical arms of Congress and the Executive Branch, the Joint Committee on Taxation, the Congressional Budget Office, and the Office of Tax Analysis at the Treasury Department. Later projects  move beyond taxes to model other areas of economic policy, including spending programs. 
 
-Our first priority is building simulation models of the federal individual income tax system, similar in capability to those used by the official analytical arms of Congress and the Executive Branch, the Joint Committee on Taxation, Congressional Budget Office, and the Office of Tax Analysis at the Treasury Department. We hope to move beyond taxes in the future to modeling other areas of economic policy, including spending programs. 
+OSPC projects that have reached the alpha or beta stage include Taxcalc, the first-ever open-source microsimulation model of the US individual income tax code, and USOG, the first-ever open-source large-scale dynamic overlapping generations model of the US economy. To enable policymakers, journalists, students, and citizens to interact with the models and gauge first-hand the effects of policies, the OSPC community has also developed an easy-to-use web application called TaxBrain. 
 
-OSPC projects that have reached the alpha or beta stage include Taxcalc, the first-ever open-source microsimulation model of the US individual income tax code, and USOG, the first-ever open-source large-scale dynamic overlapping generations model of the US economy. We have also developed TaxBrain, an easy-to-use online interface that allows policymakers, journalists, students, and citizens to interact with the models through a webapp and learn for themselves about the effects of policies. 
+OSPC is not just product oriented, but is process oriented. In other words, the intent is not just to build models, but to develop a technological approach and workflow that enables geographically-dispersed experts to work collaboratively on models in an open and transparent environment. By doing so, we hope to help pave the way for others to adopt a more collaborative, transparent, and accessibility-driven approach to the development of policy-relevant economic models.
 
-That said, a primary goal in developing these open-source tools has been process oriented rather than product oriented: we are not just striving to develop models, but to develop a technological approach and workflow that enables distributed teams of experts to collaborate on models in an open and transparent environment. By doing so, we hope to help pave the way for others to adopt a more collaboration, transparency, and accessibility-driven approach to the development of policy-relevant economic models.
-
-
-
-In order to use the TaxBrain web application and receive our newsletter, [enter your email here](http://www.ospc.org/about#join-mailinglist).
-
-To become an open source contributor to our projects, please visit our Github page, [here](https://github.com/OpenSourcePolicyCenter/)
-
-To become an economic reviewer, please email matt.jensen@aei.org
-
-
-
-OSPC is designed to serve as a laboratory for transparent, accessible, and collaborative public policy analysis. Our target audience is people who care deeply about policy and have the skills, energy, and passion to make it better. Our projects enable individuals from all backgrounds to come together to improve policy by making better tools for policy analysis. 
-
-
-
-
-
+OSPC is designed to serve as a laboratory for transparent, accessible, and collaborative public policy analysis. The target audience is people who care deeply about policy and have the skills, energy, and passion to make it better. The OSPC community's projects enable individuals from all backgrounds to come together to improve policy by making better tools for policy analysis. 
 
