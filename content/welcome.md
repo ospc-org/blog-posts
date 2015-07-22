@@ -26,4 +26,4 @@ In addition, OSPC hopes to pave the way for others to adopt a more collaborative
 
 OSPC is designed to serve as a laboratory for transparent, accessible, and collaborative public policy analysis. The target audience for our work is everyone who cares deeply about policy, and ideal contributors are those with the skills, energy, and passion to make better tools for policy analysis. OSPC projects should enable individuals from all backgrounds to come together to improve our democracy and economy. 
 
-Welcome to OSPC. We hope you will join our community and become a user, a contributor, or at lease an observer. 
+Welcome to OSPC. We hope you will join our community and become a user, a contributor, or at least an observer. 
