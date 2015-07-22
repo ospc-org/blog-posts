@@ -2,7 +2,7 @@ Title: Wecome to OSPC
 Date: 2015-07-20
 Slug: welcome-to-ospc
 Authors: Matt Jensen
-Summary: The Open Source Policy Center is making policy analysis more transparent, accessible, and innovative by harnessing open source methods to build cutting edge economic models.  
+Summary: The Open Source Policy Center is making policy analysis more transparent, accessible, and innovative by harnessing open source methods to build cutting edge economic models and a webapp for accessing those models.  
 
 Welcome to OSPC.org.  
 
