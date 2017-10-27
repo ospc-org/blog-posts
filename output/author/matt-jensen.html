@@ -10,16 +10,16 @@
     <title>OSPC</title>
 
     <!-- Bootstrap -->
-    <link href="{{ SITEURL }}/theme/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/theme/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="{{ SITEURL }}/theme/css/site.css" rel="stylesheet">
+    <link href="/theme/css/site.css" rel="stylesheet">
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-      <script src="{{ SITEURL }}/theme/js/html5shiv.min.js"></script>
-      <script src="{{ SITEURL }}/theme/js/respond.min.js"></script>
+      <script src="/theme/js/html5shiv.min.js"></script>
+      <script src="/theme/js/respond.min.js"></script>
     <![endif]-->
   </head>
   <body>
@@ -74,9 +74,33 @@
         </div>
       </div>
     </nav>
-    {% block content %}
 
-    {% endblock %}
+    <div class="container">
+
+      <div class="page-header">
+        <h1 class="text-center">News and Announcements</h1>
+      </div>
+
+      <section class="news-items news-items-trans">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <div class="news-item tagged">
+                <h4><a href="welcome-to-ospc.html">Welcome to OSPC</a></h4>
+                <h5>By Matt Jensen</h5>
+                <p><p>The Open Source Policy Center is making policy analysis more transparent, accessible, and innovative by harnessing open source methods to build cutting edge economic models and a webapp for accessing those models.</p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="news-break"></div>
+
+    </div>
+    <div class="push"></div>
+  </div> <!-- /wrapper -->
+
 
   </div> <!-- /wrapper -->
 
@@ -85,7 +109,7 @@
       <div class="footer-main">
         <div class="clearfix">
           <div class="footer-main-logo">
-            <img alt="OSPC: Open Source Policy Center" src="{{ SITEURL }}/theme/images/logo-no-text.png">
+            <img alt="OSPC: Open Source Policy Center" src="/theme/images/logo-no-text.png">
           </div>
           <div class="footer-main-links">
             <ul>
@@ -127,12 +151,12 @@
   </footer>
 
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-  <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+  <script src="/theme/js/jquery.min.js"></script>
   <!-- Include all compiled plugins (below), or include individual files as needed -->
-  <script src="{{ SITEURL }}/theme/js/bootstrap.min.js"></script>
+  <script src="/theme/js/bootstrap.min.js"></script>
   <!-- Scripts -->
-  <script src="{{ SITEURL }}/theme/js/site.js"></script>
-  <script src="{{ SITEURL }}/theme/js/pages.js"></script>
+  <script src="/theme/js/site.js"></script>
+  <script src="/theme/js/pages.js"></script>
 
   </body>
 </html>
